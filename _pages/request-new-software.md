@@ -1,38 +1,55 @@
 ---
 title: Requesting New Software at GSA
 permalink: /request-new-software/
-layout: base
 ---
 
-  <a href="{{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg" target="_blank"><img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
-    alt="Software Request Process Map"
-    style="float: left;  margin-right: 10px;"></a>
+# Requesting New Software at GSA
 
-### Introduction
+## Introduction
 
-Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA.<br>
-<br>Follow these simple steps below and view our interactive [process map]({{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg){:target="_blank"} to get started.
+Welcome to ‘Requesting New Technology at GSA!!  The Solutions Strategy IT Standards team has created this site to assist you in requesting ‘new’ technology.
 
-### Research
-Once you have identified a software need, discuss this with your supervisor and colleagues to get more information about what tool may be best to use. Be sure to check if the software you want is listed on the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network.<br><br> Once you have identified the software you would like, you will need to take some time to gather all the information needed to request it.
-<br>
-<br>
-Resources: [GEAR](https://ea.gsa.gov/#!/itstandards)
+New technology is defined as a tool that is not currently approved for use within GSA. Every day you face new challenges in your job, and you may find that you need a tool in order to perform your job.
 
-### Gather
-You will need several pieces of information, like software purpose, cost, and a download link, to complete a software request. Follow [this checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing){:target="_blank"} to be sure you've gathered all the info you will need.
-<br>
-<br>
-Resources: Software product checklist - ([Google Sheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing), [.pdf]({{ site.baseurl }}/assets/downloads/software-request-checklist.pdf))
+We are here to assist you!!  This site contains guides and training documents on how to request a ‘new’ technology for use at GSA.
 
-### Request
-Once you have gathered the info, it's time to put in your request. To do this, select the Submitting a Service Catalog, [Request for Software](https://gsa.service-now.com/GSA_Self-Service/software.do) option in ServiceNow.
-<br>
-<br>
-Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do)
+If you have any questions please call Cindy A. Smith on (816) 823-5291 or email at cindya.smith@gsa.gov.
 
-#### Non-Standard Software Requests
-If the software you are requesting is not listed as Approved on the IT Standards List in GEAR, it will need to go through the non-standard request approval process. This involves 2 additional reviews where the software is evaluated for Security vulnerabilities and Accessibility features. After these reviews are complete, the Technology Standards Committee (TSC) will provide their recommendation as to whether or not the software should be added to the IT Standards list. Finally, the Chief Technology Officer (CTO) will approve or reject the request. If approved, the software will be added to the IT Standards List in GEAR. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
+
+## Research
+Where do I start?  Start by discussing your need for a new technology with your colleagues and supervisor, gather information from them to determine if they can suggest what tool may be best, based upon your need.
+
+
+Review the IT Standards list contained in [GSA EA Analytics & Reporting (GEAR)](https://ea.gsa.gov/#!/).  This list displays the tools that have been requested and if they have been approved or denied for use at GSA.   
+
+Search for your tool and when the results are displayed, review the ‘Status’ to determine your next step.
+
+If the results display:
+
+**Approved**: The tool you require has been approved for use, and you will need to submit a request in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do) to get the tool loaded onto your machine.  You do not need to submit a request using the new intake form.
+
+**Proposed**: This tool has been submitted by another employee and is currently going through the approval process.  Once all reviews have been completed the status in GEAR will be updated.
+
+**Denied**: This tool is not allowed for use within GSA.
+
+**Sunsetting**: This tool has reached end of life and will be updated to reflect a status of Denied.
+
+
+
+
+## Gather
+To properly assess your request for a new technology we need information: cost of the technology, purpose of the technology, and a download link.  The IT Standards team has created a [Software Request Checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing) to assist you.
+
+## Request New Technology
+Now that you have talked to your colleagues, your supervisor, reviewed the GSA IT Standards list, and reviewed the software request checklist you are ready to submit your Non-Standard Technology request.
+
+If the technology you need is ‘new’ (not contained in the GSA IT Standards list), you will submit your request by clicking on the link below.
+
+[New Technology Request Form](https://gsa.my.salesforce.com/apex/TechnologyRequestForm)
+
+## Request Approved 
+
+If the technology you require is an ‘Approved’ technology you will need to submit a request to [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do).  
 
 #### Pilot Software Requests
 If you want to try out a software tool but aren't sure if you want it to go through a full review yet, you may request to evaluate the software on a trial basis. This type of request is know as a Pilot. Pilot requests can be much faster to process, but there are several requirements it must meet in order to be considered for evaluation.
@@ -73,7 +90,8 @@ Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do)
     </button>
     <div id="Question-1" class="usa-accordion-content">
       <p>
-      Standard software has previously been evaluated and approved to be included in the IT Standards List in GEAR. You must still put in a request for Standard software. This type of request typically takes 1-2 weeks to complete.
+      Standard software has previously been evaluated and approved to be included in the IT Standards List in GEAR. You must still put in a request for Standard software in ServiceNow. This type of request typically takes 1-2 weeks to complete.
+
       Non-standard software has not been reviewed and must be fully evaluated for Security, 508 Accessibility, and Enterprise Architecture requirements. This review and evaluation process can take 4-6 weeks to complete.
       </p>
     </div>
