@@ -1,6 +1,5 @@
 ---
-title: Requesting Software at GSA
-category: Team
+title: Requesting New Software at GSA
 ---
 
   <a href="{{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg" target="_blank"><img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
