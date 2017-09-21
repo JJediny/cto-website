@@ -1,5 +1,7 @@
 ---
 title: Requesting New Software at GSA
+permalink: /request-new-software/
+layout: base
 ---
 
   <a href="{{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg" target="_blank"><img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
